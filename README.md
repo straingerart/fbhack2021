@@ -26,15 +26,15 @@ pkg install toilet
 
 cd $HOME
 
-git clone https://github.com/straingerart/instahack2021
+git clone https://github.com/straingerart/fbhack2021
 
 ls
 
-cd instahack2021
+cd fbhack2021
 
 ls
 
-bash ig-hack2021.sh
+bash fbh.sh
 
 [+]--Now you need internet connection to continue further process...
 
