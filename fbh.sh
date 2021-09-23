@@ -85,7 +85,7 @@ read -p "[×]ENTER VICTIM E-MAIL and NUMBER: " wifi
 if [ $op==1 ]
 then
 	clear
-        toilet -f future "INSTA HACK"
+        toilet -f future "FACEBOOK HACK"
 	echo "Code staring...."
 	sleep 2
 	ip
